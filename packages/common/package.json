@@ -5,19 +5,18 @@
   "author": "cinyearchan <cinyearchan@gmail.com>",
   "homepage": "",
   "license": "MIT",
-  "main": "lib/common.js",
+  "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "components": "components"
   },
   "files": [
-    "lib"
+    "index"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "7f37f2939b54be7da78abeb1063026d3bd3556e1"
+  "gitHead": "49f4c7f2d7bd7d2c307e29c1e17838eeea3d24ca"
 }
