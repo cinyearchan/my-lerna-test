@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "cinyearchan <cinyearchan@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/common.js",
   "directories": {
     "lib": "lib",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "0ff1fc5431ed3907a392be940cad129add94c9c8"
 }
