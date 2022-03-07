@@ -1,6 +1,7 @@
 {
   "name": "@my-lerna-test/common",
   "version": "0.2.0",
+  "private": false,
   "description": "> TODO: description",
   "author": "cinyearchan <cinyearchan@gmail.com>",
   "homepage": "",
@@ -13,10 +14,11 @@
     "index"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "49f4c7f2d7bd7d2c307e29c1e17838eeea3d24ca"
+  "gitHead": "ca08fef2932faaf6aca4c1776ec5b7fceb633634"
 }
