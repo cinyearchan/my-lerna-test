@@ -1,4 +1,5 @@
 import { Form, Input, Button } from "antd";
+import 'antd/dist/antd.css';
 
 const layout = {
   labelCol: {
@@ -35,6 +36,7 @@ const WaterForm = () => {
       onFinish={onFinish}
       onFinishFailed={onFinishFailed}
     >
+      <h2>水费查询表单</h2>
       <Form.Item
         label="姓名"
         name="username"
