@@ -1,9 +1,9 @@
 {
   "name": "@my-lerna-test/customer-site",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
-    "@my-lerna-test/common": "^0.1.1"
+    "@my-lerna-test/common": "^0.1.2"
   },
   "scripts": {
     "start": "node ../../scripts/start.js",
